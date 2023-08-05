@@ -1,2 +1,7 @@
 git init
 git add 
+git commit -m 
+git clone 
+git remote -v 
+got git restore 
+git
